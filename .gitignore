@@ -1,0 +1,6 @@
+.venv
+.env
+
+/src/data/raw/*
+/raw/*
+/notebooks/sec*/*

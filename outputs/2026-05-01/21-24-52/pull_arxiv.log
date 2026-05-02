@@ -1,0 +1,5 @@
+[2026-05-01 21:24:52,282][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=attention+is+all+you+need&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-01 21:25:07,867][arxiv][INFO] - Sleeping: 5.000000 seconds
+[2026-05-01 21:25:12,881][arxiv][INFO] - Requesting page (first: True, try: 1): https://export.arxiv.org/api/query?search_query=attention+is+all+you+need&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-01 21:26:14,420][arxiv][INFO] - Sleeping: 5.000000 seconds
+[2026-05-01 21:26:19,426][arxiv][INFO] - Requesting page (first: True, try: 2): https://export.arxiv.org/api/query?search_query=attention+is+all+you+need&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2

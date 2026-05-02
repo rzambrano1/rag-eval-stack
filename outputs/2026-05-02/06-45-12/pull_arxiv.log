@@ -1,0 +1,56 @@
+[2026-05-02 06:45:12,775][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=attention+is+all+you+need&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:45:24,178][arxiv][INFO] - Got first page: 2 of 653675 total results
+[2026-05-02 06:45:24,182][arxiv][INFO] - Sleeping: 4.960510 seconds
+[2026-05-02 06:45:29,144][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=bert+language+model&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:45:33,821][arxiv][INFO] - Got first page: 2 of 1197868 total results
+[2026-05-02 06:45:33,821][arxiv][INFO] - Sleeping: 4.984749 seconds
+[2026-05-02 06:45:38,814][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=gpt-4&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:45:39,032][arxiv][INFO] - Got first page: 2 of 4481 total results
+[2026-05-02 06:45:39,032][arxiv][INFO] - Sleeping: 4.988547 seconds
+[2026-05-02 06:45:44,024][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=retrieval-augmented+generation&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:45:44,435][arxiv][INFO] - Got first page: 2 of 891710 total results
+[2026-05-02 06:45:44,435][arxiv][INFO] - Sleeping: 4.995629 seconds
+[2026-05-02 06:45:49,434][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=lora+machine+learning&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:45:51,690][arxiv][INFO] - Got first page: 2 of 493448 total results
+[2026-05-02 06:45:51,706][arxiv][INFO] - Sleeping: 4.984213 seconds
+[2026-05-02 06:45:56,692][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=snowflake+inc.&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:45:56,895][arxiv][INFO] - Got first page: 2 of 1323 total results
+[2026-05-02 06:45:56,897][arxiv][INFO] - Sleeping: 4.995580 seconds
+[2026-05-02 06:46:01,893][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=apache+airflow&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:46:02,124][arxiv][INFO] - Got first page: 2 of 1911 total results
+[2026-05-02 06:46:02,124][arxiv][INFO] - Sleeping: 4.983977 seconds
+[2026-05-02 06:46:07,116][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=apache+spark&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:46:07,372][arxiv][INFO] - Got first page: 2 of 4463 total results
+[2026-05-02 06:46:07,372][arxiv][INFO] - Sleeping: 4.983938 seconds
+[2026-05-02 06:46:12,360][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=apache+beam&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:46:12,608][arxiv][INFO] - Got first page: 2 of 55760 total results
+[2026-05-02 06:46:12,608][arxiv][INFO] - Sleeping: 4.995979 seconds
+[2026-05-02 06:46:17,608][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=apache+kafka&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:46:17,823][arxiv][INFO] - Got first page: 2 of 1669 total results
+[2026-05-02 06:46:17,834][arxiv][INFO] - Sleeping: 4.989285 seconds
+[2026-05-02 06:46:22,824][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=chromadb&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:46:22,992][arxiv][INFO] - Got first page: 2 of 14 total results
+[2026-05-02 06:46:22,992][arxiv][INFO] - Sleeping: 4.988505 seconds
+[2026-05-02 06:46:27,983][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=vector+database&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:46:28,240][arxiv][INFO] - Got first page: 2 of 147401 total results
+[2026-05-02 06:46:28,242][arxiv][INFO] - Sleeping: 4.995929 seconds
+[2026-05-02 06:46:33,239][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=dask+software&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:46:33,467][arxiv][INFO] - Got first page: 2 of 63166 total results
+[2026-05-02 06:46:33,469][arxiv][INFO] - Sleeping: 4.995991 seconds
+[2026-05-02 06:46:38,466][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=embedding+machine+learning&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:46:38,983][arxiv][INFO] - Got first page: 2 of 551831 total results
+[2026-05-02 06:46:38,983][arxiv][INFO] - Sleeping: 4.997994 seconds
+[2026-05-02 06:46:43,983][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=money+laundering&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:46:44,148][arxiv][INFO] - Got first page: 2 of 2616 total results
+[2026-05-02 06:46:44,150][arxiv][INFO] - Sleeping: 4.991679 seconds
+[2026-05-02 06:46:49,143][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=data+analysis+for+fraud+detection&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:46:49,810][arxiv][INFO] - Got first page: 2 of 1200321 total results
+[2026-05-02 06:46:49,810][arxiv][INFO] - Sleeping: 4.984075 seconds
+[2026-05-02 06:46:54,797][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=anti-money+laundering+improvement+act&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:46:55,076][arxiv][INFO] - Got first page: 2 of 406656 total results
+[2026-05-02 06:46:55,076][arxiv][INFO] - Sleeping: 5.000000 seconds
+[2026-05-02 06:47:00,084][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=jpmorgan+chase&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:47:00,267][arxiv][INFO] - Got first page: 2 of 1567 total results
+[2026-05-02 06:47:00,269][arxiv][INFO] - Sleeping: 4.995575 seconds
+[2026-05-02 06:47:05,266][arxiv][INFO] - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=capital+one&id_list=&sortBy=relevance&sortOrder=descending&start=0&max_results=2
+[2026-05-02 06:47:05,525][arxiv][INFO] - Got first page: 2 of 618241 total results

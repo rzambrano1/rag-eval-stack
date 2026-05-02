@@ -1,0 +1,32 @@
+data:
+  target_urls:
+  - https://airflow.apache.org/docs/apache-airflow/stable/
+  - https://spark.apache.org/docs/latest/
+  - https://docs.snowflake.com/en/user-guide-getting-started
+  - https://beam.apache.org/documentation/programming-guide/
+  - https://kafka.apache.org/documentation/
+  target_folder: ./raw/firecrawl/
+  limit: 10
+target_topics:
+- Attention_Is_All_You_Need
+- BERT_(language_model)
+- GPT-4
+- Retrieval-augmented_generation
+- LoRA_(machine learning)
+- Snowflake_Inc.
+- Apache_Airflow
+- Apache_Spark
+- Apache_Beam
+- Apache_Kafka
+- ChromaDB
+- Vector_database
+- Dask_(software)
+- Embedding_(machine_learning)
+- Money_laundering
+- Data_analysis_for_fraud_detection
+- Anti-Money_Laundering_Improvement_Act
+- JPMorgan_Chase
+- Capital_One
+wiki_folder: ./raw/wikipedia/
+arxiv_folder: ./raw/arxiv/
+sec_folder: ./raw/sec/

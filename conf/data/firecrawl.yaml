@@ -1,0 +1,10 @@
+target_urls:
+  - "https://airflow.apache.org/docs/apache-airflow/stable/"
+  - "https://spark.apache.org/docs/latest/"
+  - "https://docs.snowflake.com/en/user-guide-getting-started"
+  - "https://beam.apache.org/documentation/programming-guide/"
+  - "https://kafka.apache.org/documentation/"
+
+target_folder: "./raw/firecrawl/"
+
+limit: 10
