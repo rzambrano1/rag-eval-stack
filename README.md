@@ -23,6 +23,8 @@ User -> question prompt -> | embedding model | -> embedded prompt -> | search ve
                └──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────>  |----------|
 ```
 
+Note the context returned by the vector database will contains top N most relevant chunks to the query. 
+
 ## References
 
 1. Ragas tutorials: https://docs.ragas.io/en/latest/tutorials/rag/

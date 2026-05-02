@@ -1,6 +1,7 @@
 defaults:
   - data/firecrawl 
   - data/arxiv
+  - ingestion/ingestion
   - _self_ 
 
 hydra:
