@@ -1,3 +1,7 @@
 chunk_size: 50
 chunk_overlap: 10
 length_function: len
+
+CHROMA_DIR: vector_stores/chroma/
+LANCE_DIR:  vector_stores/lancedb/
+BM25_DIR:   vector_stores/bm25/
