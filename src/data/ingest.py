@@ -266,9 +266,9 @@ def main(cfg : DictConfig):
     # Vector Databases
 
     root_dir = Path.cwd()
-    CHROMA_DIR  = root_dir.parent / "vector_stores" / "chroma"
-    LANCE_DIR   = root_dir.parent / "vector_stores" / "lancedb"
-    BM25_DIR    = root_dir.parent / "vector_stores" / "bm25"
+    CHROMA_DIR  = root_dir / "vector_stores" / "chroma"
+    LANCE_DIR   = root_dir / "vector_stores" / "lancedb"
+    BM25_DIR    = root_dir / "vector_stores" / "bm25"
     COLLECTION  = "rag_corpus"
     
     # --- ChromaDB ---
@@ -319,10 +319,10 @@ def main(cfg : DictConfig):
     ]
 
     # Overwrite table if re-running
-    if COLLECTION in lance_db.table_names():
+    if COLLECTION in lance_db.list_tables():
         lance_db.drop_table(COLLECTION)
     
-    lance_table = lance_db.create_table(COLLECTION, data=lance_records)
+    lance_table = lance_db.create_table(COLLECTION, data=lance_records, mode="overwrite")
 
     logger.info(f"LanceDB: {lance_table.count_rows()} chunks stored")
 
