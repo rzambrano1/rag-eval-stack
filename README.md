@@ -25,6 +25,8 @@ User -> question prompt -> | embedding model | -> embedded prompt -> | search ve
 
 Note the context returned by the vector database will contains top N most relevant chunks to the query. 
 
+Acknowledging that the metadata is important for citing sources to the user and applying pre-retrieval filters, it was still ignored in favor of a simple design.
+
 ## References
 
 1. Ragas tutorials: https://docs.ragas.io/en/latest/tutorials/rag/
