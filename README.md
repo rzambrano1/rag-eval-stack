@@ -11,7 +11,7 @@ A Retrieval-Augmented Generation (a.k.a. RAG) system consists of two key compone
 * A retrieval model that fetches relevant information from an external knowledge source, which could be a database, search engine, or any other information repository.
 * A language model that generates responses based on the retrieved knowledge.
 
-There are several ways to implement RAG, including Graph RAG, Hybrid RAG, and Hierarchical RAG, which we'll discuss at the end of this post.
+There are several ways to implement RAG, including Graph RAG, Hybrid RAG, and Hierarchical RAG.
 
 ## Design
 
